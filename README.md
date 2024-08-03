@@ -6,4 +6,8 @@ I started using NFC tags all around my house for various reason to display infor
 
 So by setting the NFC record to a URL with `text=Hello`, when scanning the tag, it'll open a web page saying "Hello".
 
-That is pretty much all it does.
+That is pretty much all it does.a
+
+## Usage
+
+This is hosted on GitHub Pages (Thank you GitHub) so anyone can use it, you just head to [http://nboisvert.com/tex?text=Un+Ski-doo+on+peut+tu+laisser+ca+dans+cours%3F](http://nboisvert.com/tex?text=Un+Ski-doo+on+peut+tu+laisser+ca+dans+cours%3F) to see what it does.
